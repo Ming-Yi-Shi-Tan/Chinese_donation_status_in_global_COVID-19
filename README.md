@@ -1,0 +1,2 @@
+# Chinese_donation_status_in_global_COVID-19
+发起统计全球新冠病毒疫情期间，全球华人的已捐助信息，让华人看到自己的努力，让全球了解华人为本地社区所做的作为。
